@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I would have loved to add an animation in the header image, something moving inside the coffee shop to bring it more to life, like a book falling from the shelf or having the baristas multiple arms move. Adding a more vibrant font to the menu items.
